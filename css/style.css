@@ -153,7 +153,18 @@ img {vertical-align: middle;}
   border: 3px solid #A9A9A9;
   text-align: center;
     background: #e5e6e5;
+
 }
+
+#welcome1{
+  border: 3px solid #A9A9A9;
+  text-align: center;
+    background: #e5e6e5;
+
+  }
+  #welcome1 img{
+    object-fit: contain;
+  }
 #welcome2{
   border: 3px solid #A9A9A9;
   text-align: center;
